@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "todo-list": [
+    {
+      "task": "Spotkanie zespołu",
+      "done": false,
+      "id": 1
+    },
+    {
+      "task": "Przygotowanie prezentacji",
+      "done": false,
+      "id": 2
+    },
+    {
+      "task": "Przerwa na lunch",
+      "done": true,
+      "id": 4
+    },
+    {
+      "task": "Rozwiązanie problemu technicznego",
+      "startDate": "2023-05-05",
+      "endDate": "2023-05-25",
+      "id": 5
+    },
+    {
+      "task": "test",
+      "startDate": "2023-05-21",
+      "endDate": "2023-05-26",
+      "done": true,
+      "id": 6
+    },
+    {
+      "task": "test 2",
+      "startDate": "2023-05-26",
+      "endDate": "2023-05-24",
+      "done": false,
+      "id": 7
+    }
+  ]
+}
